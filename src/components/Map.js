@@ -6,6 +6,9 @@ import "mapbox-gl/dist/mapbox-gl.css";
 mapboxgl.accessToken =
   "pk.eyJ1Ijoia293YWxza2lkZXY3IiwiYSI6ImNrc2htdzBzNTAxcXQyb25jdmt2OTEwbDYifQ.Y7w2cwT7wBZWB17prVvSWA";
 
+// eslint-disable-next-line import/no-webpack-loader-syntax
+mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
+
 let markers = {
   userMarker: null,
   solutionMarker: null,
