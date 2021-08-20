@@ -1,0 +1,44 @@
+{
+  "cities": [
+    {
+      "name": "Amsterdam",
+      "lat": 52.3667,
+      "lng": 4.8833
+    },
+    {
+      "name": "Berlin",
+      "lat": 52.52,
+      "lng": 13.4049
+    },
+    { 
+      "name": "Paris", 
+      "lat": 49.0097, 
+      "lng": 2.5477 
+    },
+    {
+      "name": "Rome",
+      "lat": 41.9339,
+      "lng": 12.4542
+    },
+    {
+      "name": "London",
+      "lat": 51.5098,
+      "lng": -0.118
+    },
+    {
+      "name": "Madrid",
+      "lat": 40.4167,
+      "lng": -3.7037
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.45,
+      "lng": 30.5233
+    },
+    {
+      "name": "Budapest",
+      "lat": 47.4979,
+      "lng": 19.0402
+    }
+  ]
+}
