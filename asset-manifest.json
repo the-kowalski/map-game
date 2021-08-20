@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/map-game/static/css/main.62f6f7f7.chunk.css",
-    "main.js": "/map-game/static/js/main.a9f7a3a7.chunk.js",
-    "main.js.map": "/map-game/static/js/main.a9f7a3a7.chunk.js.map",
-    "runtime-main.js": "/map-game/static/js/runtime-main.4f48d0de.js",
-    "runtime-main.js.map": "/map-game/static/js/runtime-main.4f48d0de.js.map",
+    "main.js": "/map-game/static/js/main.ba47483b.chunk.js",
+    "main.js.map": "/map-game/static/js/main.ba47483b.chunk.js.map",
+    "runtime-main.js": "/map-game/static/js/runtime-main.c1bbc4ab.js",
+    "runtime-main.js.map": "/map-game/static/js/runtime-main.c1bbc4ab.js.map",
     "static/css/2.9345dda6.chunk.css": "/map-game/static/css/2.9345dda6.chunk.css",
-    "static/js/2.a248a686.chunk.js": "/map-game/static/js/2.a248a686.chunk.js",
-    "static/js/2.a248a686.chunk.js.map": "/map-game/static/js/2.a248a686.chunk.js.map",
-    "static/js/3.28a9ea21.chunk.js": "/map-game/static/js/3.28a9ea21.chunk.js",
-    "static/js/3.28a9ea21.chunk.js.map": "/map-game/static/js/3.28a9ea21.chunk.js.map",
+    "static/js/2.8e9550df.chunk.js": "/map-game/static/js/2.8e9550df.chunk.js",
+    "static/js/2.8e9550df.chunk.js.map": "/map-game/static/js/2.8e9550df.chunk.js.map",
+    "static/js/3.5f1c2105.chunk.js": "/map-game/static/js/3.5f1c2105.chunk.js",
+    "static/js/3.5f1c2105.chunk.js.map": "/map-game/static/js/3.5f1c2105.chunk.js.map",
     "index.html": "/map-game/index.html",
     "static/css/2.9345dda6.chunk.css.map": "/map-game/static/css/2.9345dda6.chunk.css.map",
     "static/css/main.62f6f7f7.chunk.css.map": "/map-game/static/css/main.62f6f7f7.chunk.css.map",
-    "static/js/2.a248a686.chunk.js.LICENSE.txt": "/map-game/static/js/2.a248a686.chunk.js.LICENSE.txt"
+    "static/js/2.8e9550df.chunk.js.LICENSE.txt": "/map-game/static/js/2.8e9550df.chunk.js.LICENSE.txt",
+    "static/js/mapbox-gl-csp-worker.223aee86.worker.js": "/map-game/static/js/mapbox-gl-csp-worker.223aee86.worker.js",
+    "static/js/mapbox-gl-csp-worker.223aee86.worker.js.map": "/map-game/static/js/mapbox-gl-csp-worker.223aee86.worker.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f48d0de.js",
+    "static/js/runtime-main.c1bbc4ab.js",
     "static/css/2.9345dda6.chunk.css",
-    "static/js/2.a248a686.chunk.js",
+    "static/js/2.8e9550df.chunk.js",
     "static/css/main.62f6f7f7.chunk.css",
-    "static/js/main.a9f7a3a7.chunk.js"
+    "static/js/main.ba47483b.chunk.js"
   ]
 }
